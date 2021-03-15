@@ -1,0 +1,13 @@
+C:\Users\Евгений\Documents\GitHub\AlgoritmLesson7\AlgoritmLesson7\AlgoritmLesson7\bin\Debug\netcoreapp3.1\AlgoritmLesson7.exe
+C:\Users\Евгений\Documents\GitHub\AlgoritmLesson7\AlgoritmLesson7\AlgoritmLesson7\bin\Debug\netcoreapp3.1\AlgoritmLesson7.deps.json
+C:\Users\Евгений\Documents\GitHub\AlgoritmLesson7\AlgoritmLesson7\AlgoritmLesson7\bin\Debug\netcoreapp3.1\AlgoritmLesson7.runtimeconfig.json
+C:\Users\Евгений\Documents\GitHub\AlgoritmLesson7\AlgoritmLesson7\AlgoritmLesson7\bin\Debug\netcoreapp3.1\AlgoritmLesson7.runtimeconfig.dev.json
+C:\Users\Евгений\Documents\GitHub\AlgoritmLesson7\AlgoritmLesson7\AlgoritmLesson7\bin\Debug\netcoreapp3.1\AlgoritmLesson7.dll
+C:\Users\Евгений\Documents\GitHub\AlgoritmLesson7\AlgoritmLesson7\AlgoritmLesson7\bin\Debug\netcoreapp3.1\AlgoritmLesson7.pdb
+C:\Users\Евгений\Documents\GitHub\AlgoritmLesson7\AlgoritmLesson7\AlgoritmLesson7\obj\Debug\netcoreapp3.1\AlgoritmLesson7.csprojAssemblyReference.cache
+C:\Users\Евгений\Documents\GitHub\AlgoritmLesson7\AlgoritmLesson7\AlgoritmLesson7\obj\Debug\netcoreapp3.1\AlgoritmLesson7.AssemblyInfoInputs.cache
+C:\Users\Евгений\Documents\GitHub\AlgoritmLesson7\AlgoritmLesson7\AlgoritmLesson7\obj\Debug\netcoreapp3.1\AlgoritmLesson7.AssemblyInfo.cs
+C:\Users\Евгений\Documents\GitHub\AlgoritmLesson7\AlgoritmLesson7\AlgoritmLesson7\obj\Debug\netcoreapp3.1\AlgoritmLesson7.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Documents\GitHub\AlgoritmLesson7\AlgoritmLesson7\AlgoritmLesson7\obj\Debug\netcoreapp3.1\AlgoritmLesson7.dll
+C:\Users\Евгений\Documents\GitHub\AlgoritmLesson7\AlgoritmLesson7\AlgoritmLesson7\obj\Debug\netcoreapp3.1\AlgoritmLesson7.pdb
+C:\Users\Евгений\Documents\GitHub\AlgoritmLesson7\AlgoritmLesson7\AlgoritmLesson7\obj\Debug\netcoreapp3.1\AlgoritmLesson7.genruntimeconfig.cache
